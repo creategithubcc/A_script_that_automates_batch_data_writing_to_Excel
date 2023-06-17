@@ -1,0 +1,2 @@
+# A_script_that_automates_batch_data_writing_to_Excel
+一款可以批量将数据录入到EXCEL文件的脚本
